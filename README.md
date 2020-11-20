@@ -8,16 +8,10 @@ To run this app, you'll need to have the following prerequisites:
 2. npm
 
 
-## Init
-
-```
-    npm install
-```
-
 
 ## How to run
 
-When running the app you should have access to the app at http://localhost:3000
+When running the app you should have access to the app at http://localhost:3330
 
 ### For Development
 ```
